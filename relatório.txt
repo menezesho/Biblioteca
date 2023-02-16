@@ -1,0 +1,19 @@
+Login;✅
+
+Aluno:
+1 ver todos livros cadastrados;✅
+2 buscar um livro;✅
+3 ver livros emprestados a ele;✅
+
+Funcionário:
+1 ver todos livros cadastrados;✅
+2 buscar um livro;✅
+3 inserir, alterar e excluir livro;✅
+4 ver todos os empréstimos;✅
+5 fazer empréstimo de livro;✅
+
+Administrador:
+1 listar todos usuários;✅
+2 inserir usuários;✅
+3 editar usuários;✅
+4 excluir usuários;✅
